@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "title": "2026 openBIM Awards 获奖结果公布",
+      "original": "The buildingSMART openBIM Awards 2026 – Winners Announced",
+      "region": "国际",
+      "date": "2026-10-12",
+      "source": "buildingSMART International",
+      "tag": "项目应用",
+      "summary": "buildingSMART 公布本年度 openBIM 奖获奖结果；颁奖活动在东京举行，展示开放标准的实际应用。",
+      "url": "https://www.buildingsmart.org/category/news/"
+    },
+    {
+      "title": "德国行业组织聚焦 BIM 与可持续发展",
+      "original": "Thementag Nachhaltigkeit: Von der Ökobilanz bis zum Ressourcenpass",
+      "region": "国际",
+      "date": "2026-10-08",
+      "source": "buildingSMART Deutschland",
+      "tag": "行业活动",
+      "summary": "11 月 10 日在 Fulda 举行的主题活动，将讨论生命周期环境评价与资源护照。",
+      "url": "https://www.buildingsmart.de/buildingsmart/aktuelles"
+    },
+    {
+      "title": "深圳征求既有建筑 BIM 建模技术标准意见",
+      "region": "中国",
+      "date": "2026-09-28",
+      "source": "深圳市住房和建设局",
+      "tag": "政策标准",
+      "summary": "征求意见涉及既有建筑 BIM 建模及成果交付，意见提交截止日期为 10 月 28 日。",
+      "url": "https://zjj.sz.gov.cn/hdjlpt/yjzj/answer/53092"
+    },
+    {
+      "title": "运维数字孪生：语义基础与落地实践的系统综述",
+      "original": "Operational digital twins in the built environment: A systematic review of semantic infrastructure and deployment practice",
+      "date": "2026-09",
+      "source": "Elias、Hutchins、Issa · ITcon · 期刊论文",
+      "url": "https://itcon.org/paper/2026/43",
+      "summary": "【研究】按 PRISMA 方法，从 2,839 条记录中筛选 46 项研究，分析运维数字孪生的语义集成与系统连接。\n【发现】应用集中于环境质量与能源；跨建筑迁移和外部工作流连接仍有不足。\n【阅读价值】适合研究 BIM—知识图谱—运维系统的集成架构。\n【局限】结论来自纳入的文献，不能等同于所有工程部署的实测表现。",
+      "region": "科研",
+      "tag": "科研资讯",
+      "research": true
+    },
+    {
+      "title": "IFCMemoryBench：BIM 智能体能否记住项目上下文？",
+      "original": "IFCMemoryBench: Evaluating Long-Term Memory of LLM-Based Agents in BIM Information Retrieval",
+      "date": "2026-07-13",
+      "source": "Du 等 · arXiv · 预印本；页面注明 KDD 2026 Workshop",
+      "url": "https://arxiv.org/abs/2607.26072",
+      "summary": "【研究】用 19 个项目的 143 项多会话任务，评测智能体结合历史对话与 IFC 查询回答问题的能力。\n【发现】在作者设定的实际部署式信息摄取范围内，最佳系统回答准确率为 32.4%。\n【阅读价值】适合 BIM 问答助手、项目知识库与长期记忆研究。\n【局限】仅代表论文评测的任务与系统；arXiv 版本不等同于期刊同行评审结论。",
+      "region": "科研",
+      "tag": "科研资讯",
+      "research": true
+    },
+    {
+      "title": "BIM-Edit：用自然语言修改 IFC 模型的能力评测",
+      "original": "BIM-Edit: Benchmarking Large Language Models for IFC-Based Building Information Modeling",
+      "date": "2026-06-18",
+      "source": "Nithyanantham 等 · arXiv · 预印本（v3 更新于 06-23）",
+      "url": "https://arxiv.org/abs/2606.20146",
+      "summary": "【研究】构建 324 项编辑任务，分别考察模型修改后的几何准确性、语义有效性和拓扑一致性。\n【发现】作者评测中最佳平均分为 49.5%，没有模型完全解决超过 3.4% 的任务。\n【阅读价值】可作为 BIM 自动建模与模型编辑工具的验证思路。\n【局限】分数依赖该基准和被测模型，不能作为所有 BIM 自动化工具的通用准确率。",
+      "region": "科研",
+      "tag": "科研资讯",
+      "research": true
+    },
+    {
+      "title": "从历史 BIM 模型学习构件参数：机器学习决策支持",
+      "original": "Machine learning-based decision support framework for BIM component specification",
+      "date": "2026-05",
+      "source": "İpek Geç、Orkan Zeynel Güzelci · ITcon · 期刊论文",
+      "url": "https://itcon.org/paper/2026/25",
+      "summary": "【研究】从 3 个 Revit 项目提取 5,763 个门实例，利用空间关系和随机森林预测门的规格属性。\n【发现】部分项目内预测表现较好；跨项目受命名差异、类别不均衡和标签不匹配影响。\n【阅读价值】适合构件推荐、历史模型复用和数据标准化研究。\n【局限】只覆盖特定项目及构件，向其他建筑类型或构件迁移仍需验证。",
+      "region": "科研",
+      "tag": "科研资讯",
+      "research": true
+    },
+    {
+      "title": "Qwen-BIM：面向 BIM 设计的领域大模型、数据集与基准",
+      "original": "Qwen-BIM: developing large language model for BIM-based design with domain-specific benchmark and dataset",
+      "date": "2026-02-24",
+      "source": "Jia-Rui Lin、Yun-Hong Cai 等 · arXiv · 预印本",
+      "url": "https://arxiv.org/abs/2602.20812",
+      "summary": "【研究】提出 BIM 设计任务评测基准、模型转文本数据构造方法和领域微调策略。\n【发现】作者报告微调模型相对基座模型的 G-Eval 平均分提升 21.0%。\n【阅读价值】适合 BIM 专用大模型训练与领域评测研究。\n【局限】提升针对论文中的评测设置，不代表真实工程设计准确率；当前链接为预印本。",
+      "region": "科研",
+      "tag": "科研资讯",
+      "research": true
+    }
+  ],
+  "updatedAt": "2026-10-22T09:16:41.466Z",
+  "lastAttemptAt": "2026-10-23T07:04:47.623143+00:00",
+  "sources": [
+    {
+      "name": "中国新闻",
+      "status": "采集失败，保留历史",
+      "checkedAt": "2026-10-23T07:04:47.623143+00:00"
+    },
+    {
+      "name": "国际新闻",
+      "status": "采集失败，保留历史",
+      "checkedAt": "2026-10-23T07:04:47.623143+00:00"
+    },
+    {
+      "name": "arXiv科研",
+      "status": "采集失败，保留历史",
+      "checkedAt": "2026-10-23T07:04:47.623143+00:00"
+    }
+  ]
+}
