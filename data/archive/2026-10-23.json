@@ -45,17 +45,6 @@
       "research": false
     },
     {
-      "title": "集团代表队在2026年省住建系统BIM职业技能竞赛斩获佳绩 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGhzMDB4cEJYd2p0X3dNTFBxZmhTd002UV9pTDVlbGZZRmhhM3JIYlVYZlB2UVhUS0hMLTlWMGFGUmVxRmpNRExpRmk5eEoyNG01bm91eElELVRqVG9IUnFDaXg5Sm1rRVhKWTFkQkRJZ1ZMYTdMM0J6a0p1dmhBcmNFcw?oc=5",
-      "date": "2026-10-21",
-      "source": "新浪财经",
-      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
-      "region": "中国",
-      "tag": "项目应用",
-      "live": true,
-      "research": false
-    },
-    {
       "title": "卖身微软15年后，他带着“工程世界模型”杀回AI牌桌，宣称CAD任务150倍降本、50倍提效 - 搜狐",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjJPbHhwekxVbU1ibFUtSFBjMFBlOFlTMHNIeEdESTBEYjVzTjJKS25vNkN2QlM2SktZUDVHVFJHQzQzV2hVY0RhdGNEalRkbVZHYV9PNnRYX2p5OFNKSktkMU9kZGMwdkk4WkFkaDlWQndYcHJPMV9ldUpFY3VzTVZoZ2VDVkti?oc=5",
       "date": "2026-10-21",
@@ -84,6 +73,17 @@
       "source": "The Filipino Times",
       "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
       "region": "国际",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "集团代表队在2026年省住建系统BIM职业技能竞赛斩获佳绩 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGhzMDB4cEJYd2p0X3dNTFBxZmhTd002UV9pTDVlbGZZRmhhM3JIYlVYZlB2UVhUS0hMLTlWMGFGUmVxRmpNRExpRmk5eEoyNG01bm91eElELVRqVG9IUnFDaXg5Sm1rRVhKWTFkQkRJZ1ZMYTdMM0J6a0p1dmhBcmNFcw?oc=5",
+      "date": "2026-10-21",
+      "source": "新浪财经",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "中国",
       "tag": "项目应用",
       "live": true,
       "research": false
@@ -437,26 +437,26 @@
       "research": true
     }
   ],
-  "updatedAt": "2026-10-23T07:25:31.456505+00:00",
-  "lastAttemptAt": "2026-10-23T07:25:31.456505+00:00",
+  "updatedAt": "2026-10-23T07:34:14.556090+00:00",
+  "lastAttemptAt": "2026-10-23T07:34:14.556090+00:00",
   "sources": [
     {
       "name": "中国新闻",
       "status": "成功",
-      "count": 9,
-      "checkedAt": "2026-10-23T07:25:31.456505+00:00"
+      "count": 8,
+      "checkedAt": "2026-10-23T07:34:14.556090+00:00"
     },
     {
       "name": "国际新闻",
       "status": "成功",
       "count": 3,
-      "checkedAt": "2026-10-23T07:25:31.456505+00:00"
+      "checkedAt": "2026-10-23T07:34:14.556090+00:00"
     },
     {
       "name": "arXiv科研",
       "status": "成功",
       "count": 20,
-      "checkedAt": "2026-10-23T07:25:31.456505+00:00"
+      "checkedAt": "2026-10-23T07:34:14.556090+00:00"
     }
   ]
 }
