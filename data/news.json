@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "title": "Searchdog荣获CES 2027“企业技术”类别创新奖- 阿视亚经济 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZWmVJRHJNOXFiWG13UlNwWDE2d0VtcEZKV3JTaGR1ejFHRzNxN3pqM3VBTHNzOXl0VDdTWWlFZFJndER3c1JEbXlKWDZtOFk2RUh6NDI0Z0dqUXF6cHE0SWwydmU?oc=5",
+      "date": "2026-11-10",
+      "source": "아시아경제",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "中国",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "Searchdoc凭借VELOAT斩获CES 2027企业科技类创新奖 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWNDbHRCVWJIWFhJdEp5Q1lWV1lBMWNsRkZXYWhXYTk1SXRrdVJvS1RTdllTMVJFTi1HeVBtcjBrMzZBTmN1RVRGLXNlVmxkX1dIbTNsVW5LNW5qNC1IU21xSlhMOTBWZ3pIWnd0Yk45Qkp5eUVlRHpUVDRTRnQ0NHBIb0lEYjZkYmhFX2pPNElrcXFmYzBQVjFTLWlaQU1hVTZQQQ?oc=5",
+      "date": "2026-11-10",
+      "source": "디지털투데이",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "中国",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "Seochidok Wins CES 2027 Innovation Award in \"Enterprise Tech\" Category - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hRkpEckpLRnF6aHR0aDhzb1dDaDhGSHZBdWtLajRKb2Jia2ZHQi0wSEVncHcydFZzcVkxZXFEYnIwcUlJczVjeXRfTW5sb3B1WjhfOU5ySWMwLURGbWVma1FxaGk?oc=5",
+      "date": "2026-11-10",
+      "source": "아시아경제",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "国际",
+      "tag": "行业活动",
+      "live": true,
+      "research": false
+    },
+    {
       "title": "赛迪报告：“DATA+AI”成数字建筑产业 增长新引擎 - 经济参考报",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXBQcHlBcF9tbTFrSmpzWUp5azNkYllpVW1ZbVBaRXlIaGZwTllTcFRzYldmOW00ZUhncjJIb2UxUzdKd3FSdTBCWlVxcVpaTllkMFladUE3cDR6aGtyVmNPdDl3NzdQOW1wM3RPMnN5Vzl2RDd3bENJckJSQkxTdg?oc=5",
       "date": "2026-11-09",
@@ -43,6 +76,28 @@
       "tag": "项目应用",
       "live": true,
       "research": false
+    },
+    {
+      "title": "中国移动呼和浩特数据中心B14机房楼投运 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdXVTc2JoYzZUTmNCaDhlZWVvVTNiUWswVFpVWkk0QTZXcGpQZmhYOWtHNTVFRzVqZk82NHRfR1pZS0N6QVNTSEUtdHVGNWsybVVWdTYwNXhqcHh6UzJpV2VOV25pb1cyME9IX2dGOXZDMENLa2c?oc=5",
+      "date": "2026-11-07",
+      "source": "新华网",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "中国",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "Agent2BIM: A Systematic Evaluation of Reality-Capture Configurations and Prior Models for As-Built Modeling",
+      "url": "https://arxiv.org/abs/2611.10644v1",
+      "date": "2026-11-07",
+      "source": "arXiv · 预印本，同行评审状态未核验",
+      "summary": "预印本 · 原文摘要（未自动翻译）：\nAI agents can generate as-built Building Information Models (BIMs) from reality-capture data, but the evidence required for accurate reconstruction remains unclear. This paper presents Agent2BIM, an agent-based Scan-to-BIM framework, and evaluates seven capture configurations in a research laboratory and a mechanical, electrical, and plumbing (MEP) scene. Inputs include 360° panoramas, smartphone video, smartphone LiDAR, terrestrial laser scanning (TLS), TLS with posed panoramas, and imagery supplemented by prior IFC models. Outputs are compared against TLS-verified reference models for component detection, geometric accuracy, and MEP connectivity. In the laboratory, component recall ranged from 84% to 100%, but only 9% of components reconstructed from panoramas were within 20 cm of their reference positions, compared with 86% using smartphone LiDAR. In the MEP scene, scale-free inputs recovered 11 - 43% of components, versus 75 - 93% for metric inputs. Prior IFC models improved MEP reconstruction but could propagate inaccuracies. The results highlight the complementary roles of visual and metric evidence in agent-based Scan-to-BIM.",
+      "region": "科研",
+      "tag": "科研资讯",
+      "live": true,
+      "research": true
     },
     {
       "title": "126名建筑工匠宜昌同台亮技 - 荆楚网",
@@ -89,28 +144,6 @@
       "research": true
     },
     {
-      "title": "2026-2030年国家智慧城市发展方向及2035年愿景 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWItb2xsRnVaT0V6NlZ5YjY1T1ZURFNFLTVUaHQ3QkVWZW01TmZXcUdoZ1pzc3IxVmU1SVVQXzQtRVVjRENnODh6SHhOZVJUTG9uX1lsNEQyMU02R1J6ekg2T2hKUXl4V3c4Z3BHVG5nTndSN1ZyWDE4cm1obWRTR3E3eGJyNmRxSVZzQzJWOUZnUWVubjU3STJwQjFQaHhKVXk1MDRFVkYxSk93Ty1waDFOdFVPSFl4UHA0?oc=5",
-      "date": "2026-11-05",
-      "source": "Vietnam.vn",
-      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
-      "region": "中国",
-      "tag": "项目应用",
-      "live": true,
-      "research": false
-    },
-    {
-      "title": "AOM K-12 Education: Evergreen Charter School - Engineering News-Record",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3FaTzdEZVV5OEYxaDNtYzc1WHhITk9QbTNDVlRjTjd1ODRiOGVZT3FUODFtaDdVZVNRWUJiVUhhRy1sb3NqUzdBUzVaUzVFZEFqWU5JVzljLV9IbVJVU0dZMGtiei1fcG5tYW00TXFOZVNTbEFjSmhHZWUtd3FOM1g0ZkY?oc=5",
-      "date": "2026-11-05",
-      "source": "Engineering News-Record",
-      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
-      "region": "国际",
-      "tag": "项目应用",
-      "live": true,
-      "research": false
-    },
-    {
       "title": "HOMA Expands Digital Services: Products Now Available in BIM Portal - impeller.net",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2FpZXBINVhjZlhIc2E5T0U4TkVXcGduLXF1enpQZ25GdmlUWjdlM0FvRWZCQ0w3alQ0d3FzdTFkODM0MUdzcVFaNFdSd21YQ2pEZUV6Z1RZanFlWlVoVy1sVDlvY243TkR5ZXZtS1Y1UktYVXlBTEJLeW1SdEY4ejcxNFVmRGd3MTZMbGdHUXhRQ0k2dU1sblRlM0U?oc=5",
       "date": "2026-11-05",
@@ -126,6 +159,28 @@
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRk9GVHZhT1F0R0NsMkhXZjJuM01Zc1V1X1RSbVZ1akk2aGp5SkZSNldxQ3BFVjlVVlNiYW5fU3Nxa0R5UFZJM1NhYTAwel9BUkdsZnVhUGlYTl8zQkoxT3BvZUVVNGNfMHBNc0xLbVZBUEtSYWR3MlI4RFV4MzVJSG9jbzBQeVRWRmNHSUdkN0Vkb0c0VEw5VHpxODk2aXhCWjBiQktiTzFPNkRvb3dQQ2lUT1lvN1Y3YXZ2aVJBME9FNnZxZG9oLU92OVFSQlEwclRhNDhSQ1dobkF1VzRLU1JXQXFzRzA5M1RRcmw4ZE42TEdpcUFabTU2T25OcjNvLU85YkZ2V1NzVE4yRmMzWTduNTM0UQ?oc=5",
       "date": "2026-11-05",
       "source": "Big News Network.com",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "国际",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "2026-2030年国家智慧城市发展方向及2035年愿景 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWItb2xsRnVaT0V6NlZ5YjY1T1ZURFNFLTVUaHQ3QkVWZW01TmZXcUdoZ1pzc3IxVmU1SVVQXzQtRVVjRENnODh6SHhOZVJUTG9uX1lsNEQyMU02R1J6ekg2T2hKUXl4V3c4Z3BHVG5nTndSN1ZyWDE4cm1obWRTR3E3eGJyNmRxSVZzQzJWOUZnUWVubjU3STJwQjFQaHhKVXk1MDRFVkYxSk93Ty1waDFOdFVPSFl4UHA0?oc=5",
+      "date": "2026-11-05",
+      "source": "Vietnam.vn",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "中国",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "AOM K-12 Education: Evergreen Charter School - Engineering News-Record",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3FaTzdEZVV5OEYxaDNtYzc1WHhITk9QbTNDVlRjTjd1ODRiOGVZT3FUODFtaDdVZVNRWUJiVUhhRy1sb3NqUzdBUzVaUzVFZEFqWU5JVzljLV9IbVJVU0dZMGtiei1fcG5tYW00TXFOZVNTbEFjSmhHZWUtd3FOM1g0ZkY?oc=5",
+      "date": "2026-11-05",
+      "source": "Engineering News-Record",
       "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
       "region": "国际",
       "tag": "项目应用",
@@ -155,6 +210,17 @@
       "research": false
     },
     {
+      "title": "OpenAI内部新模型曝光！工程测试干翻GPT-6 Astra - 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DVUhDTlh5WC04eG85N19vTmtPQ1ZWajhoLVZTVHlEc3JjMC1zdFdMY0xyYmRSbE5aTFJweVotMWUxNzJKVlR1azdUNzUwZlRJQmdnZHdIbE1yQXV4MDd2T2xB?oc=5",
+      "date": "2026-11-04",
+      "source": "腾讯新闻",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "中国",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
       "title": "西班牙ShieldBot建筑节能改造机器人项目获欧盟399万欧元资助 - 维度网",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15ZmVXaTRVd0RkbzRVRkc2QkJIZnk4eE9EeVBlOHkwUE1wRWU4ZUZ3eklHdks4amZqeGh4Y0ZIT3VmRGRtSnU2STYycmdhRG5YUl9nM01YQXg?oc=5",
       "date": "2026-11-04",
@@ -177,6 +243,17 @@
       "research": false
     },
     {
+      "title": "title | Gulf Times - Gulf Times",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01TDA0TDFKY2R4NjRrSHRJMlBYc2FodDRtUkxfcmYtR0tjZE54bDRMU0tEOEJyamREajdZMmFCNHVIQURZYk9MSmZmRXJoMlhoazlHSGh3R1hmejgzbFV5SWc1VdIBaEFVX3lxTFBRU2NnZHc2OUI2ZjliZnNfXzZDbXNTZnVhek1LU0g1bW8zRmlIWlRaTGc4bmpMUjRmQURqdWJMd1FHOUpPOXdjRnIwbFFVQ0lsRGJObWVTUkNVczFnc2J4WUZzT091R0pI?oc=5",
+      "date": "2026-11-04",
+      "source": "Gulf Times",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "国际",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
       "title": "Huawei and Axora sign strategic MOU to accelerate digital transformation in Qatar AEC sector | Gulf Times - Gulf Times",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSE5MeGJ6MFM0QkliQjBjMWlySzZ3Tmw3RTJ4VVpWd21OVTRON3R6RFM4eXBNWFM3aG1FZG9VelFuNExHckIzX0dDYmJBSnpsY1BQYTNFekNjeWJ6aFVjaXdQd09WWmFuUURKamx5R3ZjWFBYNWQ5V1VsWWxvUV9hQXhHb1RTQkNsM1hPdGplX0RlZ2VUcHN4dXI1WlJMMWdpdGhmbzFFYVROUzZBdkJHd3hLMjVfVFJPZWtkMElVMHgtVWxKRXlfZGoycWN0RmdCbjdaUFdtc9IB3AFBVV95cUxPQ2h3bjJmLVJNcDYyR0N4QlFocFNOSnZzSW54cUNTR09aaGtzTDJoU2h6ejdRam5xS0lhdmVoTF9nUGNJSTBoeUlsZ2ZoQVB4OUNVVW9xSUJGWE56YlgwRmxuN1c2bWhNb0VWbGxuUE41NVNPOThsdFFsWXJ1emhRS3ZoNjFKU1hoT1ZIX3ZBNzFtMzE3M09hT1NqaUpEMUlONEhrcmFHY2VSa2JDZXN5SExBczVqdmNRVGNRU3JfWWlPaG1yS1BGUkNkTVV2dTVpRWhnUmhlSGN6ZHND?oc=5",
       "date": "2026-11-04",
@@ -192,17 +269,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmZ1OWdndzd2Ylp6LVBoaUxFUkZOMnFpVC10bnFGaWE2UWd0SUpRc0tkckNwUUM3dWpsUzBIQW9HS3hnakZzcDBDb0t1dXNxWUN3SENKdTVkWnYzQ1FYYUZNVDEyYVJtY1BveXF6UHVFMHRJbG95U0N3NnFGYmxjT25EUThCMTlG?oc=5",
       "date": "2026-11-04",
       "source": "搜狐网",
-      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
-      "region": "中国",
-      "tag": "项目应用",
-      "live": true,
-      "research": false
-    },
-    {
-      "title": "OpenAI内部新模型曝光！工程测试干翻GPT-6 Astra - 腾讯新闻",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DVUhDTlh5WC04eG85N19vTmtPQ1ZWajhoLVZTVHlEc3JjMC1zdFdMY0xyYmRSbE5aTFJweVotMWUxNzJKVlR1azdUNzUwZlRJQmdnZHdIbE1yQXV4MDd2T2xB?oc=5",
-      "date": "2026-11-04",
-      "source": "腾讯新闻",
       "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
       "region": "中国",
       "tag": "项目应用",
@@ -243,17 +309,6 @@
       "research": false
     },
     {
-      "title": "中交机电局打造环渤海数智化大宗商品储运枢纽 - 中国交通新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fdWc1c3pOX3g1YlF3YUhCYnZPSFhsaTFEc21wZnpuLTQtWmw2TFZYbHJPTGpVNFAzSzZfZktLVjRvSW52VndCdmlZS0NYUTN0cmJtQ3lqZUFET0pKbXgxU25RY00?oc=5",
-      "date": "2026-11-03",
-      "source": "中国交通新闻网",
-      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
-      "region": "中国",
-      "tag": "项目应用",
-      "live": true,
-      "research": false
-    },
-    {
       "title": "Seoul National University of Science and Technology researchers develop new AI-assisted pipeline to identify errors in construction design documents - EurekAlert!",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWMFNuWWFQdHBpX0JXLXp3LU1zUWVhX0k0dnpHOE5qSlVEQnl2SXRlMGNXU0c1TldiMHl0OXh6Wm03N3NzTFIwWENhZnVRR2tmbWlFdXExbTNkNGhs?oc=5",
       "date": "2026-11-03",
@@ -271,6 +326,17 @@
       "source": "Tech Xplore",
       "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
       "region": "国际",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "中交机电局打造环渤海数智化大宗商品储运枢纽 - 中国交通新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fdWc1c3pOX3g1YlF3YUhCYnZPSFhsaTFEc21wZnpuLTQtWmw2TFZYbHJPTGpVNFAzSzZfZktLVjRvSW52VndCdmlZS0NYUTN0cmJtQ3lqZUFET0pKbXgxU25RY00?oc=5",
+      "date": "2026-11-03",
+      "source": "中国交通新闻网",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "中国",
       "tag": "项目应用",
       "live": true,
       "research": false
@@ -991,6 +1057,17 @@
       "research": false
     },
     {
+      "title": "BIBIMBAP: A Benchmark for Instructional BIM-Based Automated Programming",
+      "url": "https://arxiv.org/abs/2611.09933v1",
+      "date": "2026-10-13",
+      "source": "arXiv · 预印本，同行评审状态未核验",
+      "summary": "预印本 · 原文摘要（未自动翻译）：\nLarge Language Models (LLMs) are emerging as natural-language interfaces for Building Information Modeling (BIM), successfully achieving information retrieval, but no benchmark exists to evaluate their ability to edit Industry Foundation Classes (IFC). We introduce BIBIMBAP, a Text-to-BIM benchmark with 100 curated tasks covering Create-Read-Update-Delete (CRUD) operations across spatial, geometric, topological, numeric, and conceptual categories. Each task includes a natural-language prompt, an IFC model, expected structured outputs, and test scripts for automated evaluation. Baseline results show limited performance (best: 50.2%) and frequent failures in constraint preservation and spatial reasoning, with some correct outputs achieved despite flawed reasoning.",
+      "region": "科研",
+      "tag": "科研资讯",
+      "live": true,
+      "research": true
+    },
+    {
       "title": "2026 openBIM Awards 获奖结果公布",
       "original": "The buildingSMART openBIM Awards 2026 – Winners Announced",
       "region": "国际",
@@ -1295,26 +1372,26 @@
       "research": true
     }
   ],
-  "updatedAt": "2026-11-09T07:57:12.596235+00:00",
-  "lastAttemptAt": "2026-11-09T07:57:12.596235+00:00",
+  "updatedAt": "2026-11-10T08:25:04.242095+00:00",
+  "lastAttemptAt": "2026-11-10T08:25:04.242095+00:00",
   "sources": [
     {
       "name": "中国新闻",
       "status": "成功",
       "count": 10,
-      "checkedAt": "2026-11-09T07:57:12.596235+00:00"
+      "checkedAt": "2026-11-10T08:25:04.242095+00:00"
     },
     {
       "name": "国际新闻",
       "status": "成功",
-      "count": 9,
-      "checkedAt": "2026-11-09T07:57:12.596235+00:00"
+      "count": 7,
+      "checkedAt": "2026-11-10T08:25:04.242095+00:00"
     },
     {
       "name": "arXiv科研",
       "status": "成功",
       "count": 20,
-      "checkedAt": "2026-11-09T07:57:12.596235+00:00"
+      "checkedAt": "2026-11-10T08:25:04.242095+00:00"
     }
   ]
 }
