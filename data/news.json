@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "title": "Building Momentum for GIS + openBIM: What We Heard at the buildingSMART US Roads and Bridges Event - Esri",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNHMxcTkwcjl0WnZiaUVmd0JsbkdJWnhZNG1UTkJpRldZRjlHQzU1ZVAzbExTNU44ZzNaWk42QUNjSE1hSFRKeEtKNHZiQTYyaE9nME9rczlrc0U3QUFsX2JkVWdtVmlNX3NoUXVqc2gwRllsWDZyZFNxQ2thdjhCR2IxdC00a29TeG1KS1RzNS1SOHBjdGJjRWxVVTBDRDFKRWRtc1UyUnZfcl9kaFJsNk52UmZUSGItQkxQSmFsLVR5OFJFRmpiU3hWTVVpaG0wTzhHYVZON3FSejFoWkdmVQ?oc=5",
+      "date": "2026-11-14",
+      "source": "Esri",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "国际",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
       "title": "3D BIM和人工智能在公路和铁路基础设施设计中的应用。 - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnR5MWpWLU5oZDRxMkJTb3FiQ3dPMzdxbXlDUng3Q3NOOG5IenYwS1c4V0FYbGlQT0JRN0RINGg0d2xpVFUyTlY4a1BnUGdCRUZEOXZlUVhGbkk3VlFCbmxqNnA1ZEdsMS1sZ24wUzJvR0o1YWo5Wk9nbWtjTWJFTXhwRENlMVFvLTRqLUx3V1NwUEhPNVZ1bmYzcVVQUzFqRGxXWlVvMTV1Zw?oc=5",
       "date": "2026-11-13",
@@ -8,6 +19,39 @@
       "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
       "region": "中国",
       "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "A Case Study of BIM Design for a Smart City with the Architecture, Engineering & Construction Collection - Autodesk",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPcDhkcDJNdzRfaklPb1dIeGdJMUxEdHRXSVlGSjBjZ2xmMWNoLXNJR2RxOHFlci1naTdfbmJZZzhsYmNfVXJpNFNIVzFfVldDR0g5d05hMzc3aFQ4NXprb1M4c05KVjhoRmJsXzVPaS0tSC1McjhHdmpIb1dkcjBicS14VEVSTEZEdzlfMFliSUpsbVZVTkJtNFpwakY1ZnVPNzhhbGJTNjBBc2tkRUYxajh5MTFKV09Ud1QwN2FMdDA0R0N4NDVJRHZlcGVyaXB5QmFpWnI1RFQ2U0hYX3k4MGR3NHMxTGFWOVhYaE5DanAzb3dibG00cU1Fd19vT1hKczJMX1F4ODhIWFFtNjFTcHEyRy1SZklLRHNlZzNJRjdMSG9nTW5kb3c5bWZCUHUyRXFCVkd6Tk1kODFNNUoxYUVMN0FMVVNUZk9LVXdnLWZEdzBfU2g0RldDZjY1eHp2Y3ZpUHhTU3RZUi16ajFLSVpzLVpTc2xqM1RJeGI5R19YZ1doM3lVdHRDS0pNdlB0d2c?oc=5",
+      "date": "2026-11-13",
+      "source": "Autodesk",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "国际",
+      "tag": "软件动态",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "Digital Diagnostic Model Guides Precision Regeneration for Aging Chinese Residential Buildings - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTG5rSTkydzB3SHFLMFVnajZRcHJwNDFJdjVzWEFCOElXYWVITXVTeW5VMjhxck5JbUNqZy05c3NDcU5Mb3VYSjlCZ25hSE0zN3lGRGFYZ3VhYUZxRm5LYXdnd0ZYV3cwQm9jQy1HRnpVRW5tal9xbkY4UEtBN3RXZG9wallkbFBLc256bEtsbHRiNml5SkczT2FJUGo1LTFPNzBoUVZlNk9rekQ2cG93OTFmZEhHdFBQNzhJ?oc=5",
+      "date": "2026-11-13",
+      "source": "Bioengineer.org",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "国际",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "Searchdoc's VELOAT Named CES 2027 Innovation Awards® Honoree in Enterprise Tech - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSE5ILWJIOG8tSUJIb2d1a3RkekwtMXppeWx6ZGNEODhOVnpoT1ZPcm8zdmtuNUgxSVg3NnZONlJZNTlURHRmOFdQaG9SQTBhWVB0WWtsa19kX3ZUNmxqRDZSLWVJTUxxR3IzX3laTF9mUWZYaW1qT0VobTMyWmNObkFld2xOdmlqck4zMjlTMjNjUDZ2TlVVVWdmRm5TRU5BUUJtYm1ESWJLSkpKSkJJdjZyT0VlSGxJYzVJLXV3NGM4TGo0eXZrWWdrc2gxT3hudWdkYWhYZ0lpQm1WZEhaYlVOUdIB6AFBVV95cUxNc1RJSjlIMUduVjRCTnRPV21jSDg5SjVCOTRZQzhGbm4tTWRYWVhoM2Uwdm1QcFpDR2o0Qi04eWlicjFjZU14SHEwZkVLVkVtRWVidWdDRHNldk1ldW9aM0hWSDcxVjhKV09pWTJEemZsUnZGbTVELTdXNmdMWHBldURkNVJSRWhBYkRKRkJZX25GTUFROHM4SlEyeTVvdE92TzY4QVV5enVRY2ZvZkE3TGtnbkFhUjgyZWwxMmhhSzlHSlJUY1lNZ1FCU3NXSG50V3dwXzlHWlJNd1Ftb2pfODA3NWpTS3Zi?oc=5",
+      "date": "2026-11-13",
+      "source": "The Manila Times",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "国际",
+      "tag": "行业活动",
       "live": true,
       "research": false
     },
@@ -78,6 +122,28 @@
       "research": false
     },
     {
+      "title": "赛迪报告：“DATA+AI”成数字建筑产业增长新引擎_数字快讯 - 数字中国建设峰会",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MOXZWd2F5NFVXazFWcVZpTE40UGR1Nldqb0NNY0lqbEhOWlhZQmdKT1dBQ3pxWnc0OWJRSDFhSWdmZGpCM0NRWkdMSWNHUURqNHN6UkhLUEE0cTNjMUUwSHpBWGhFSGFYSjBSaGNCRkZNM2N4TlE?oc=5",
+      "date": "2026-11-11",
+      "source": "数字中国建设峰会",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "中国",
+      "tag": "行业活动",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "Trimble Shows New Connect Project Review Abilities, Debuts WorksManager Drone Data Platform - Engineering News-Record",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHVLY2RTRXhGTEJ2YzZiVEdaeHVRSkhfcEVFTkc0ODVILXp2VXlIVEtlaE0wZk9ITVFBVFZNTWNmb1BiTmZNUk9Ra1RHNVdKUjdCZFhyRHY2WGVYSzVyWlQwbkd1a0RiSnc0VFZfWVJkd2EtajZhZ0tnQ2RmMHlqNVlJTmNfaVZ2Q3hmNjZJa0J6eElObm13?oc=5",
+      "date": "2026-11-11",
+      "source": "Engineering News-Record",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "国际",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
       "title": "赛迪报告：“DATA+AI”成数字建筑产业增长新引擎_行业资讯 - 数字中国建设峰会",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16Si13ZWE3XzJHeFU5RTczWGluSGtIWUZQTmhwd0NFN2RTZG1WTlJlRk9sekZIU3pJdWhHMDZpcEdUeUV4aVFRZUpOWXlCN2tZMEN5X0J5aG01aGFqRXhTOGdsNEdGeTZ0czdqTEZTODBWaDBPNlE?oc=5",
       "date": "2026-11-11",
@@ -95,17 +161,6 @@
       "source": "Sohu",
       "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
       "region": "中国",
-      "tag": "项目应用",
-      "live": true,
-      "research": false
-    },
-    {
-      "title": "Trimble Shows New Connect Project Review Abilities, Debuts WorksManager Drone Data Platform - Engineering News-Record",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHVLY2RTRXhGTEJ2YzZiVEdaeHVRSkhfcEVFTkc0ODVILXp2VXlIVEtlaE0wZk9ITVFBVFZNTWNmb1BiTmZNUk9Ra1RHNVdKUjdCZFhyRHY2WGVYSzVyWlQwbkd1a0RiSnc0VFZfWVJkd2EtajZhZ0tnQ2RmMHlqNVlJTmNfaVZ2Q3hmNjZJa0J6eElObm13?oc=5",
-      "date": "2026-11-11",
-      "source": "Engineering News-Record",
-      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
-      "region": "国际",
       "tag": "项目应用",
       "live": true,
       "research": false
@@ -133,17 +188,6 @@
       "research": false
     },
     {
-      "title": "赛迪报告：“DATA+AI”成数字建筑产业增长新引擎_数字快讯 - 数字中国建设峰会",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MOXZWd2F5NFVXazFWcVZpTE40UGR1Nldqb0NNY0lqbEhOWlhZQmdKT1dBQ3pxWnc0OWJRSDFhSWdmZGpCM0NRWkdMSWNHUURqNHN6UkhLUEE0cTNjMUUwSHpBWGhFSGFYSjBSaGNCRkZNM2N4TlE?oc=5",
-      "date": "2026-11-11",
-      "source": "数字中国建设峰会",
-      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
-      "region": "中国",
-      "tag": "行业活动",
-      "live": true,
-      "research": false
-    },
-    {
       "title": "Standardizing BIM data removes bottlenecks in construction appraisal. - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0hYYzQtNWQwZmFIUUNhV2NvN09ZRXYyWGozcjEtT0tiaVpDUWdkMDQ2Sm5WOVV3ZlhFZVp5U2ZTaHVhdklFS2FwdFJRS3BoUmhVcWlVbTgwNUtiUUdfMzRZa0JqT24xREgzd0YzTmVyNXFiZmJOcHdYdDVSc3AzNGNvN19ETERiUDQ4SQ?oc=5",
       "date": "2026-11-11",
@@ -161,6 +205,17 @@
       "source": "Chosunbiz",
       "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
       "region": "国际",
+      "tag": "项目应用",
+      "live": true,
+      "research": false
+    },
+    {
+      "title": "模块化建筑等采用率 放眼提升至30% - China Press",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNb3JEc3hmOHd0TFNwdlhTYS1xU2JBSEQwQUpzVHM4czQtQTFUenFaTnBPV0pRQkdOX2hreklQSkp5MG44VmV4MF9CeXBlbUVHdjJOOXh3eHc4UmdvMUVvcGtXYzdXbVhkNm9GN2dUOHB5TVFfeUJoRnRuT3hsMEsybE9qd1ZkQl9NVGlBOTlkMHBZOGJIblpaVkJzX0o5bkpwTDFMNF80U3ZWMjk4eXo1VlNuVDZJZXRDQ1k5WXNsek5WNjBnVk1DMm83QmhRSGR3X1M5dkRWX3NUeVZsc25Ycm5PS1paSmVOckFhZFd3Sl9WQVZUZWhHOEtrQlppdw?oc=5",
+      "date": "2026-11-10",
+      "source": "China Press",
+      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
+      "region": "中国",
       "tag": "项目应用",
       "live": true,
       "research": false
@@ -194,17 +249,6 @@
       "source": "openPR.com",
       "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
       "region": "国际",
-      "tag": "项目应用",
-      "live": true,
-      "research": false
-    },
-    {
-      "title": "模块化建筑等采用率 放眼提升至30% - China Press",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNb3JEc3hmOHd0TFNwdlhTYS1xU2JBSEQwQUpzVHM4czQtQTFUenFaTnBPV0pRQkdOX2hreklQSkp5MG44VmV4MF9CeXBlbUVHdjJOOXh3eHc4UmdvMUVvcGtXYzdXbVhkNm9GN2dUOHB5TVFfeUJoRnRuT3hsMEsybE9qd1ZkQl9NVGlBOTlkMHBZOGJIblpaVkJzX0o5bkpwTDFMNF80U3ZWMjk4eXo1VlNuVDZJZXRDQ1k5WXNsek5WNjBnVk1DMm83QmhRSGR3X1M5dkRWX3NUeVZsc25Ycm5PS1paSmVOckFhZFd3Sl9WQVZUZWhHOEtrQlppdw?oc=5",
-      "date": "2026-11-10",
-      "source": "China Press",
-      "summary": "新闻索引 · 点击原文阅读完整报道，当前未生成自动中文摘要。",
-      "region": "中国",
       "tag": "项目应用",
       "live": true,
       "research": false
@@ -1614,26 +1658,26 @@
       "research": true
     }
   ],
-  "updatedAt": "2026-11-13T07:55:26.061594+00:00",
-  "lastAttemptAt": "2026-11-13T07:55:26.061594+00:00",
+  "updatedAt": "2026-11-14T07:36:12.260350+00:00",
+  "lastAttemptAt": "2026-11-14T07:36:12.260350+00:00",
   "sources": [
     {
       "name": "中国新闻",
       "status": "成功",
       "count": 9,
-      "checkedAt": "2026-11-13T07:55:26.061594+00:00"
+      "checkedAt": "2026-11-14T07:36:12.260350+00:00"
     },
     {
       "name": "国际新闻",
       "status": "成功",
-      "count": 6,
-      "checkedAt": "2026-11-13T07:55:26.061594+00:00"
+      "count": 8,
+      "checkedAt": "2026-11-14T07:36:12.260350+00:00"
     },
     {
       "name": "arXiv科研",
       "status": "成功",
       "count": 20,
-      "checkedAt": "2026-11-13T07:55:26.061594+00:00"
+      "checkedAt": "2026-11-14T07:36:12.260350+00:00"
     }
   ]
 }
